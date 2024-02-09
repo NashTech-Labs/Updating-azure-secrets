@@ -20,4 +20,4 @@ This repository contains a Python function for updating secrets in Azure Key Vau
    pip install azure-identity azure-keyvault-secrets
 2. **Run File**:
    ```bash
-  python <file-name>.py
+   python <file-name>.py
